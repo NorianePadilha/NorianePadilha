@@ -12,11 +12,11 @@ I build ML pipelines that translate model outputs into measurable business value
 
 **Domain expertise:** CNP fraud detection, vehicle telemetry, predictive maintenance, anomaly detection across finance, healthcare, and industrial applications
 
-### Featured project
+### What I do
 
-**[fraud-detection-cascade](https://github.com/NorianePadilha/fraud-detection-cascade)** | Cost-sensitive cascade decision framework for CNP fraud detection
+I design decision systems on top of ML models, optimized by real business cost rather than statistical metrics. In most classification problems, the cost of errors is asymmetric: a missed fraud costs far more than a false block, a missed diagnosis costs far more than an extra exam. Standard metrics like F1-Score ignore this. I don't.
 
-A three-zone cascade system that replaces the standard binary threshold with cost-optimized decision boundaries. Validated on 590K real transactions (IEEE-CIS dataset), achieving 36.1% cost reduction and ~85% recall vs. the F1-Score baseline. The core insight: optimizing the model is an ML problem; optimizing the decision is a business problem.
+**[fraud-detection-cascade](https://github.com/NorianePadilha/fraud-detection-cascade)** is the proof of concept: a three-zone cascade framework that reduced total fraud cost by 36.1% on 590K real transactions without changing the model, only the way decisions are made on top of it. The same principle applies to credit scoring, medical triage, predictive maintenance, and any domain where error costs are unequal and measurable.
 
 ### Background
 
