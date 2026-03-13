@@ -22,10 +22,6 @@ A three-zone cascade system that replaces the standard binary threshold with cos
 
 6+ years in applied data science for large-scale corporate environments. 200+ AI/ML proposals for enterprise clients across the US and Latin America. Experience ranges from vehicle telemetry at scale (16B+ records) to predictive maintenance and geospatial analysis.
 
-MBA in Technology for Business (AI & Data Science) from PUC-RS. Fluent in Portuguese, English, and German.
+MBA in Technology for Business (AI & Data Science) from PUC-RS. Fluent in Portuguese, English, and Basic German.
 
 Based in Curitiba, Brazil.
-
-### Get in touch
-
-[LinkedIn](https://www.linkedin.com/in/noriane) | noriane.padilha@gmail.com
