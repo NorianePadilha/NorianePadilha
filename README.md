@@ -6,11 +6,11 @@ I build ML pipelines that translate model outputs into measurable business value
 
 ### What I work with
 
-**ML/DS:** LightGBM, XGBoost, scikit-learn, Isolation Forest, PyTorch, cost-sensitive optimization
+**ML/DS:** Numpy, Pandas, Matplotlib, streamlit, LightGBM, XGBoost, scikit-learn, Isolation Forest, cost-sensitive optimization
 
 **Stacks:** GCP, BigQuery, Databricks, Vertex AI, Spark
 
-**Domain expertise:** CNP fraud detection, vehicle telemetry, predictive maintenance, forecasting, anomaly detection across finance, healthcare, and industrial applications
+**Domain expertise:**  Fraud detection, vehicle telemetry, real-time data streaming, predictive maintenance, forecasting, anomaly detection across finance, healthcare, and industrial applications
 
 ### What I do
 
